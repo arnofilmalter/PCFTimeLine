@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="TimelineControl_DisplayName" xml:space="preserve">
+    <value>Task Timeline</value>
+  </data>
+  <data name="TimelineControl_Description" xml:space="preserve">
+    <value>Timeline of tasks between two dates with hourly, daily, monthly and quarterly views.</value>
+  </data>
+  <data name="TasksJson_DisplayName" xml:space="preserve">
+    <value>Tasks JSON</value>
+  </data>
+  <data name="TasksJson_Description" xml:space="preserve">
+    <value>JSON array of tasks with start, end, title or description, and optional id, color and status.</value>
+  </data>
+  <data name="StartDate_DisplayName" xml:space="preserve">
+    <value>Timeline start</value>
+  </data>
+  <data name="StartDate_Description" xml:space="preserve">
+    <value>Optional start boundary for the timeline.</value>
+  </data>
+  <data name="EndDate_DisplayName" xml:space="preserve">
+    <value>Timeline end</value>
+  </data>
+  <data name="EndDate_Description" xml:space="preserve">
+    <value>Optional end boundary for the timeline.</value>
+  </data>
+  <data name="DefaultView_DisplayName" xml:space="preserve">
+    <value>Default view</value>
+  </data>
+  <data name="DefaultView_Description" xml:space="preserve">
+    <value>hourly, daily, monthly or quarterly.</value>
+  </data>
+  <data name="ShowViewSelector_DisplayName" xml:space="preserve">
+    <value>Show view selector</value>
+  </data>
+  <data name="ShowViewSelector_Description" xml:space="preserve">
+    <value>Show buttons for changing timeline scale.</value>
+  </data>
+  <data name="SelectedTaskJson_DisplayName" xml:space="preserve">
+    <value>Selected task JSON</value>
+  </data>
+  <data name="SelectedTaskJson_Description" xml:space="preserve">
+    <value>JSON for the last task selected by the user.</value>
+  </data>
+</root>
